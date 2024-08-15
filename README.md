@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yousuf002.github.io/My-Portfolio/](https://yousuf002.github.io/My-Portfolio/) [under development]
 
-- 💬 Ask me about **MERN, Java, Cpp**
+- 💬 Ask me about **MERN, Java, Cpp, PHP, Laravel, CodeIgniter**
 
 - 📫 How to reach me **yk26391@gmail.com**
 
