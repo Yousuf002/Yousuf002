@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://yousuf002.github.io/My-Portfolio/](https://yousuf002.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://yousuf002.github.io/My-Portfolio/](https://yousuf002.github.io/My-Portfolio/) [under development]
 
 - 💬 Ask me about **MERN, Java, Cpp**
 
